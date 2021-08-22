@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Poetry-Pad/static/css/main.aa0f12c8.chunk.css",
-    "main.js": "/Poetry-Pad/static/js/main.04696626.chunk.js",
-    "main.js.map": "/Poetry-Pad/static/js/main.04696626.chunk.js.map",
+    "main.js": "/Poetry-Pad/static/js/main.6105ec48.chunk.js",
+    "main.js.map": "/Poetry-Pad/static/js/main.6105ec48.chunk.js.map",
     "runtime-main.js": "/Poetry-Pad/static/js/runtime-main.979a7298.js",
     "runtime-main.js.map": "/Poetry-Pad/static/js/runtime-main.979a7298.js.map",
     "static/js/2.0658bcc7.chunk.js": "/Poetry-Pad/static/js/2.0658bcc7.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.979a7298.js",
     "static/js/2.0658bcc7.chunk.js",
     "static/css/main.aa0f12c8.chunk.css",
-    "static/js/main.04696626.chunk.js"
+    "static/js/main.6105ec48.chunk.js"
   ]
 }
